@@ -25,7 +25,13 @@ Folder             | Description
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No 
+## Contributors list and summary
+
+| SF ID  |       Name         | Total test cases | Teset cases passing | Test cases failing |
+| :----: | :----------------: | :--------------: | :-----------------: | :----------------: |
+| 314679 | Shubham Kumar    |        4        |           4        |          0         |
+
 
 ## Challenges Faced and How Was It Overcome
 
