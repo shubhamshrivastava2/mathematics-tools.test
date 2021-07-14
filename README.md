@@ -1,8 +1,12 @@
-[CMakeLists.txt](https://github.com/9074341788/mathematics-tools.test/files/6804879/CMakeLists.txt)
-![San Dias Brewery](https://user-images.githubusercontent.com/65505299/125453421-f57b6339-2baf-4e34-bba2-becfc0f4fef7.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/65505299/125611565-9fb91d10-dccc-4603-9efa-b32dda3be7ad.png)
 
 
-https://github.com/prithvisekhar/AppliedSDLC_Template#sdlc-activity-based-learning 
+
+
+[CMakeLists.txt](https://github.com/9074341788/mathematics-tools.test/files/6804879/CMakeLists.txt
+
+
 # SDLC Activity Based Learning
 
 Visit [Pages for Report -optional](using github.io option)
