@@ -1,10 +1,21 @@
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/65505299/125611565-9fb91d10-dccc-4603-9efa-b32dda3be7ad.png)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d1e816a975b84d97a925af4e8b255c6b)](https://www.codacy.com/gh/skandams/Railway-management-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=skandams/Railway-management-system&amp;utm_campaign=Badge_Grade)
+
+[![cppcheck-action](https://github.com/skandams/Railway-management-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/cppcheck.yml)
+
+[![Valgrind_Check](https://github.com/skandams/Railway-management-system/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/Valgrind_Check.yml)
+
+[![Unit Testing - Unity](https://github.com/skandams/Railway-management-system/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/Unit-Testing.yml)
+
+[![Code Coverage](https://github.com/skandams/Railway-management-system/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/code-coverage.yml)
+
+[![C/C++ CI](https://github.com/skandams/Railway-management-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/skandams/Railway-management-system/actions/workflows/c-cpp.yml)
 
 
 
-[CMakeLists.txt](https://github.com/9074341788/mathematics-tools.test/files/6804879/CMakeLists.txt
+
 
 
 # SDLC Activity Based Learning
@@ -28,9 +39,7 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No 
-## Contributors list and summary
+SHUBHAM KUMAR | 314679   | atm programming management     |  No     | yes     |4 | 4
 
 | SF ID  |       Name         | Total test cases | Teset cases passing | Test cases failing |
 | :----: | :----------------: | :--------------: | :-----------------: | :----------------: |
@@ -39,10 +48,10 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Initialize the variables PIN,ACCOUNTS NUMBER,TRANSACTION 
+2. choose the correct option 
+3. compiling files structure 
+
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
